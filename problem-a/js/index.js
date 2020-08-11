@@ -103,7 +103,7 @@ function fetchTrackList(searchTerm) {
     console.log(err);
   })
   togglerSpinner();
-;}
+}
 
 
 
